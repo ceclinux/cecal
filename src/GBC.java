@@ -1,5 +1,6 @@
 import java.awt.*;
-
+/**参考core java 写的
+ */
 /**
  * This class simplifies the use of the GridBagConstraints class. the default is
  * gridx = RELATIVE; gridy = RELATIVE; gridwidth = 1; gridheight = 1;
