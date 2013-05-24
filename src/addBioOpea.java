@@ -1,6 +1,9 @@
 public class addBioOpea extends BioOperType {
 
-
+/*
+ * (non-Javadoc)
+ * @see ButtonType#getDescription()
+ */
 	@Override
 	public String getDescription() {
 		return "add,can't be used as plus sign";
